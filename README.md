@@ -1,1 +1,1 @@
-# Jawascript
+# This is journey to learn JS
